@@ -5,7 +5,7 @@ setlocal enabledelayedexpansion
 set "targetFolder=gfx\interface\goals"
 
 :: Output file
-set "output=gfx_blocks.txt"
+set "output=focus_gfx.txt"
 echo. > "%output%"
 
 :: Loop through .png files in the subfolder
