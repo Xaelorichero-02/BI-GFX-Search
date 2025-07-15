@@ -1,0 +1,841 @@
+ 
+<div data-clipboard-text="GFX_goal_AUS_armeeoberkommando" data-search-text="GFX_goal_AUS_armeeoberkommando" title="GFX_goal_AUS_armeeoberkommando" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_armeeoberkommando.png" alt="GFX_goal_AUS_armeeoberkommando"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_AUS_assasinate_schuschnigg" data-search-text="GFX_goal_AUS_assasinate_schuschnigg" title="GFX_goal_AUS_assasinate_schuschnigg" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_assasinate_schuschnigg.png" alt="GFX_goal_AUS_assasinate_schuschnigg"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_AUS_ausgleich" data-search-text="GFX_goal_AUS_ausgleich" title="GFX_goal_AUS_ausgleich" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_ausgleich.png" alt="GFX_goal_AUS_ausgleich"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_AUS_common_army" data-search-text="GFX_goal_AUS_common_army" title="GFX_goal_AUS_common_army" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_common_army.png" alt="GFX_goal_AUS_common_army"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_AUS_decentralization" data-search-text="GFX_goal_AUS_decentralization" title="GFX_goal_AUS_decentralization" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_decentralization.png" alt="GFX_goal_AUS_decentralization"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_AUS_defenders_of_the_fatherland" data-search-text="GFX_goal_AUS_defenders_of_the_fatherland" title="GFX_goal_AUS_defenders_of_the_fatherland" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_defenders_of_the_fatherland.png" alt="GFX_goal_AUS_defenders_of_the_fatherland"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_AUS_defense_of_the_fatherland" data-search-text="GFX_goal_AUS_defense_of_the_fatherland" title="GFX_goal_AUS_defense_of_the_fatherland" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_defense_of_the_fatherland.png" alt="GFX_goal_AUS_defense_of_the_fatherland"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_AUS_dolfuss" data-search-text="GFX_goal_AUS_dolfuss" title="GFX_goal_AUS_dolfuss" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_dolfuss.png" alt="GFX_goal_AUS_dolfuss"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_AUS_federation" data-search-text="GFX_goal_AUS_federation" title="GFX_goal_AUS_federation" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_federation.png" alt="GFX_goal_AUS_federation"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_AUS_modern_army" data-search-text="GFX_goal_AUS_modern_army" title="GFX_goal_AUS_modern_army" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_modern_army.png" alt="GFX_goal_AUS_modern_army"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_AUS_naval_warfare" data-search-text="GFX_goal_AUS_naval_warfare" title="GFX_goal_AUS_naval_warfare" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_naval_warfare.png" alt="GFX_goal_AUS_naval_warfare"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_AUS_red_army" data-search-text="GFX_goal_AUS_red_army" title="GFX_goal_AUS_red_army" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_red_army.png" alt="GFX_goal_AUS_red_army"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_AUS_sdapo" data-search-text="GFX_goal_AUS_sdapo" title="GFX_goal_AUS_sdapo" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_sdapo.png" alt="GFX_goal_AUS_sdapo"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_AUS_small_flag" data-search-text="GFX_goal_AUS_small_flag" title="GFX_goal_AUS_small_flag" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_small_flag.png" alt="GFX_goal_AUS_small_flag"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_AUS_step_on_skull" data-search-text="GFX_goal_AUS_step_on_skull" title="GFX_goal_AUS_step_on_skull" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_step_on_skull.png" alt="GFX_goal_AUS_step_on_skull"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_AUS_tank" data-search-text="GFX_goal_AUS_tank" title="GFX_goal_AUS_tank" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_tank.png" alt="GFX_goal_AUS_tank"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_AUS_vf" data-search-text="GFX_goal_AUS_vf" title="GFX_goal_AUS_vf" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_vf.png" alt="GFX_goal_AUS_vf"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_AUS_vf_2" data-search-text="GFX_goal_AUS_vf_2" title="GFX_goal_AUS_vf_2" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\AUS_vf_2.png" alt="GFX_goal_AUS_vf_2"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_BEL_a_new_red_benelux" data-search-text="GFX_goal_BEL_a_new_red_benelux" title="GFX_goal_BEL_a_new_red_benelux" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\BEL_a_new_red_benelux.png" alt="GFX_goal_BEL_a_new_red_benelux"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_BEL_burgundy" data-search-text="GFX_goal_BEL_burgundy" title="GFX_goal_BEL_burgundy" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\BEL_burgundy.png" alt="GFX_goal_BEL_burgundy"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_BEL_congo_union" data-search-text="GFX_goal_BEL_congo_union" title="GFX_goal_BEL_congo_union" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\BEL_congo_union.png" alt="GFX_goal_BEL_congo_union"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_BEL_rex" data-search-text="GFX_goal_BEL_rex" title="GFX_goal_BEL_rex" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\BEL_rex.png" alt="GFX_goal_BEL_rex"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_BEL_van_der_bergen" data-search-text="GFX_goal_BEL_van_der_bergen" title="GFX_goal_BEL_van_der_bergen" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\BEL_van_der_bergen.png" alt="GFX_goal_BEL_van_der_bergen"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_BEL_wallonia" data-search-text="GFX_goal_BEL_wallonia" title="GFX_goal_BEL_wallonia" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\BEL_wallonia.png" alt="GFX_goal_BEL_wallonia"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_BRA_officers" data-search-text="GFX_goal_BRA_officers" title="GFX_goal_BRA_officers" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\BRA_officers.png" alt="GFX_goal_BRA_officers"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CAN_imperial_oil" data-search-text="GFX_goal_CAN_imperial_oil" title="GFX_goal_CAN_imperial_oil" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CAN_imperial_oil.png" alt="GFX_goal_CAN_imperial_oil"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CAN_inglis" data-search-text="GFX_goal_CAN_inglis" title="GFX_goal_CAN_inglis" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CAN_inglis.png" alt="GFX_goal_CAN_inglis"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CAN_monarchy" data-search-text="GFX_goal_CAN_monarchy" title="GFX_goal_CAN_monarchy" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CAN_monarchy.png" alt="GFX_goal_CAN_monarchy"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CAN_royal_wedding" data-search-text="GFX_goal_CAN_royal_wedding" title="GFX_goal_CAN_royal_wedding" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CAN_royal_wedding.png" alt="GFX_goal_CAN_royal_wedding"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CAN_valentine" data-search-text="GFX_goal_CAN_valentine" title="GFX_goal_CAN_valentine" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CAN_valentine.png" alt="GFX_goal_CAN_valentine"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CHI_crush_kmt" data-search-text="GFX_goal_CHI_crush_kmt" title="GFX_goal_CHI_crush_kmt" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CHI_crush_kmt.png" alt="GFX_goal_CHI_crush_kmt"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CHI_military_commission" data-search-text="GFX_goal_CHI_military_commission" title="GFX_goal_CHI_military_commission" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CHI_military_commission.png" alt="GFX_goal_CHI_military_commission"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CZE_air" data-search-text="GFX_goal_CZE_air" title="GFX_goal_CZE_air" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CZE_air.png" alt="GFX_goal_CZE_air"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CZE_army" data-search-text="GFX_goal_CZE_army" title="GFX_goal_CZE_army" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CZE_army.png" alt="GFX_goal_CZE_army"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CZE_defense" data-search-text="GFX_goal_CZE_defense" title="GFX_goal_CZE_defense" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CZE_defense.png" alt="GFX_goal_CZE_defense"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CZE_defense_2" data-search-text="GFX_goal_CZE_defense_2" title="GFX_goal_CZE_defense_2" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CZE_defense_2.png" alt="GFX_goal_CZE_defense_2"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CZE_global_arms_export" data-search-text="GFX_goal_CZE_global_arms_export" title="GFX_goal_CZE_global_arms_export" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CZE_global_arms_export.png" alt="GFX_goal_CZE_global_arms_export"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CZE_industry" data-search-text="GFX_goal_CZE_industry" title="GFX_goal_CZE_industry" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CZE_industry.png" alt="GFX_goal_CZE_industry"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CZE_jail" data-search-text="GFX_goal_CZE_jail" title="GFX_goal_CZE_jail" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CZE_jail.png" alt="GFX_goal_CZE_jail"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CZE_legion" data-search-text="GFX_goal_CZE_legion" title="GFX_goal_CZE_legion" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CZE_legion.png" alt="GFX_goal_CZE_legion"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CZE_navy" data-search-text="GFX_goal_CZE_navy" title="GFX_goal_CZE_navy" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CZE_navy.png" alt="GFX_goal_CZE_navy"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CZE_NOF" data-search-text="GFX_goal_CZE_NOF" title="GFX_goal_CZE_NOF" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CZE_NOF.png" alt="GFX_goal_CZE_NOF"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CZE_slovak_rebelion" data-search-text="GFX_goal_CZE_slovak_rebelion" title="GFX_goal_CZE_slovak_rebelion" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CZE_slovak_rebelion.png" alt="GFX_goal_CZE_slovak_rebelion"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CZE_sokol" data-search-text="GFX_goal_CZE_sokol" title="GFX_goal_CZE_sokol" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CZE_sokol.png" alt="GFX_goal_CZE_sokol"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CZE_west_slavic_union" data-search-text="GFX_goal_CZE_west_slavic_union" title="GFX_goal_CZE_west_slavic_union" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CZE_west_slavic_union.png" alt="GFX_goal_CZE_west_slavic_union"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_CZE_zapadoslavia" data-search-text="GFX_goal_CZE_zapadoslavia" title="GFX_goal_CZE_zapadoslavia" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\CZE_zapadoslavia.png" alt="GFX_goal_CZE_zapadoslavia"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_EGY_democracy" data-search-text="GFX_goal_EGY_democracy" title="GFX_goal_EGY_democracy" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\EGY_democracy.png" alt="GFX_goal_EGY_democracy"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_EGY_farouk" data-search-text="GFX_goal_EGY_farouk" title="GFX_goal_EGY_farouk" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\EGY_farouk.png" alt="GFX_goal_EGY_farouk"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_EGY_monarchy" data-search-text="GFX_goal_EGY_monarchy" title="GFX_goal_EGY_monarchy" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\EGY_monarchy.png" alt="GFX_goal_EGY_monarchy"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_FRA_africa" data-search-text="GFX_goal_FRA_africa" title="GFX_goal_FRA_africa" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\FRA_africa.png" alt="GFX_goal_FRA_africa"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_africa" data-search-text="GFX_goal_GEN_africa" title="GFX_goal_GEN_africa" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_africa.png" alt="GFX_goal_GEN_africa"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_africa_2" data-search-text="GFX_goal_GEN_africa_2" title="GFX_goal_GEN_africa_2" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_africa_2.png" alt="GFX_goal_GEN_africa_2"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_agriculture" data-search-text="GFX_goal_GEN_agriculture" title="GFX_goal_GEN_agriculture" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_agriculture.png" alt="GFX_goal_GEN_agriculture"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_agriculture_2" data-search-text="GFX_goal_GEN_agriculture_2" title="GFX_goal_GEN_agriculture_2" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_agriculture_2.png" alt="GFX_goal_GEN_agriculture_2"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_air_armada" data-search-text="GFX_goal_GEN_air_armada" title="GFX_goal_GEN_air_armada" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_air_armada.png" alt="GFX_goal_GEN_air_armada"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_air_investments" data-search-text="GFX_goal_GEN_air_investments" title="GFX_goal_GEN_air_investments" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_air_investments.png" alt="GFX_goal_GEN_air_investments"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_anti_communism" data-search-text="GFX_goal_GEN_anti_communism" title="GFX_goal_GEN_anti_communism" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_anti_communism.png" alt="GFX_goal_GEN_anti_communism"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_armored_cars" data-search-text="GFX_goal_GEN_armored_cars" title="GFX_goal_GEN_armored_cars" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_armored_cars.png" alt="GFX_goal_GEN_armored_cars"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_arms_export" data-search-text="GFX_goal_GEN_arms_export" title="GFX_goal_GEN_arms_export" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_arms_export.png" alt="GFX_goal_GEN_arms_export"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_army_cooperation" data-search-text="GFX_goal_GEN_army_cooperation" title="GFX_goal_GEN_army_cooperation" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_army_cooperation.png" alt="GFX_goal_GEN_army_cooperation"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_army_guy" data-search-text="GFX_goal_GEN_army_guy" title="GFX_goal_GEN_army_guy" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_army_guy.png" alt="GFX_goal_GEN_army_guy"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_army_guy_2" data-search-text="GFX_goal_GEN_army_guy_2" title="GFX_goal_GEN_army_guy_2" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_army_guy_2.png" alt="GFX_goal_GEN_army_guy_2"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_authority" data-search-text="GFX_goal_GEN_authority" title="GFX_goal_GEN_authority" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_authority.png" alt="GFX_goal_GEN_authority"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_bastion_of_democracy" data-search-text="GFX_goal_GEN_bastion_of_democracy" title="GFX_goal_GEN_bastion_of_democracy" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_bastion_of_democracy.png" alt="GFX_goal_GEN_bastion_of_democracy"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_befriend_poland" data-search-text="GFX_goal_GEN_befriend_poland" title="GFX_goal_GEN_befriend_poland" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_befriend_poland.png" alt="GFX_goal_GEN_befriend_poland"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_brain" data-search-text="GFX_goal_GEN_brain" title="GFX_goal_GEN_brain" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_brain.png" alt="GFX_goal_GEN_brain"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_business_bills" data-search-text="GFX_goal_GEN_business_bills" title="GFX_goal_GEN_business_bills" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_business_bills.png" alt="GFX_goal_GEN_business_bills"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_chrtistianity" data-search-text="GFX_goal_GEN_chrtistianity" title="GFX_goal_GEN_chrtistianity" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_chrtistianity.png" alt="GFX_goal_GEN_chrtistianity"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_communist_militia" data-search-text="GFX_goal_GEN_communist_militia" title="GFX_goal_GEN_communist_militia" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_communist_militia.png" alt="GFX_goal_GEN_communist_militia"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_communist_purge" data-search-text="GFX_goal_GEN_communist_purge" title="GFX_goal_GEN_communist_purge" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_communist_purge.png" alt="GFX_goal_GEN_communist_purge"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_communist_purge_2" data-search-text="GFX_goal_GEN_communist_purge_2" title="GFX_goal_GEN_communist_purge_2" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_communist_purge_2.png" alt="GFX_goal_GEN_communist_purge_2"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_communist_war" data-search-text="GFX_goal_GEN_communist_war" title="GFX_goal_GEN_communist_war" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_communist_war.png" alt="GFX_goal_GEN_communist_war"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_conscription" data-search-text="GFX_goal_GEN_conscription" title="GFX_goal_GEN_conscription" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_conscription.png" alt="GFX_goal_GEN_conscription"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_constitutional_guarantees" data-search-text="GFX_goal_GEN_constitutional_guarantees" title="GFX_goal_GEN_constitutional_guarantees" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_constitutional_guarantees.png" alt="GFX_goal_GEN_constitutional_guarantees"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_construction" data-search-text="GFX_goal_GEN_construction" title="GFX_goal_GEN_construction" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_construction.png" alt="GFX_goal_GEN_construction"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_construction_engineering" data-search-text="GFX_goal_GEN_construction_engineering" title="GFX_goal_GEN_construction_engineering" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_construction_engineering.png" alt="GFX_goal_GEN_construction_engineering"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_corruption" data-search-text="GFX_goal_GEN_corruption" title="GFX_goal_GEN_corruption" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_corruption.png" alt="GFX_goal_GEN_corruption"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_council_communism" data-search-text="GFX_goal_GEN_council_communism" title="GFX_goal_GEN_council_communism" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_council_communism.png" alt="GFX_goal_GEN_council_communism"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_denazification" data-search-text="GFX_goal_GEN_denazification" title="GFX_goal_GEN_denazification" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_denazification.png" alt="GFX_goal_GEN_denazification"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_desert_officers" data-search-text="GFX_goal_GEN_desert_officers" title="GFX_goal_GEN_desert_officers" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_desert_officers.png" alt="GFX_goal_GEN_desert_officers"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_double_research" data-search-text="GFX_goal_GEN_double_research" title="GFX_goal_GEN_double_research" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_double_research.png" alt="GFX_goal_GEN_double_research"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_eagle" data-search-text="GFX_goal_GEN_eagle" title="GFX_goal_GEN_eagle" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_eagle.png" alt="GFX_goal_GEN_eagle"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_economic_control" data-search-text="GFX_goal_GEN_economic_control" title="GFX_goal_GEN_economic_control" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_economic_control.png" alt="GFX_goal_GEN_economic_control"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_elections" data-search-text="GFX_goal_GEN_elections" title="GFX_goal_GEN_elections" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_elections.png" alt="GFX_goal_GEN_elections"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_end_corruption" data-search-text="GFX_goal_GEN_end_corruption" title="GFX_goal_GEN_end_corruption" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_end_corruption.png" alt="GFX_goal_GEN_end_corruption"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_engineering" data-search-text="GFX_goal_GEN_engineering" title="GFX_goal_GEN_engineering" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_engineering.png" alt="GFX_goal_GEN_engineering"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_espionage" data-search-text="GFX_goal_GEN_espionage" title="GFX_goal_GEN_espionage" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_espionage.png" alt="GFX_goal_GEN_espionage"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_factory_complex" data-search-text="GFX_goal_GEN_factory_complex" title="GFX_goal_GEN_factory_complex" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_factory_complex.png" alt="GFX_goal_GEN_factory_complex"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_foreign_investments" data-search-text="GFX_goal_GEN_foreign_investments" title="GFX_goal_GEN_foreign_investments" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_foreign_investments.png" alt="GFX_goal_GEN_foreign_investments"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_free_trade" data-search-text="GFX_goal_GEN_free_trade" title="GFX_goal_GEN_free_trade" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_free_trade.png" alt="GFX_goal_GEN_free_trade"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_government" data-search-text="GFX_goal_GEN_government" title="GFX_goal_GEN_government" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_government.png" alt="GFX_goal_GEN_government"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_government_centralization" data-search-text="GFX_goal_GEN_government_centralization" title="GFX_goal_GEN_government_centralization" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_government_centralization.png" alt="GFX_goal_GEN_government_centralization"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_government_deal" data-search-text="GFX_goal_GEN_government_deal" title="GFX_goal_GEN_government_deal" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_government_deal.png" alt="GFX_goal_GEN_government_deal"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_great_science" data-search-text="GFX_goal_GEN_great_science" title="GFX_goal_GEN_great_science" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_great_science.png" alt="GFX_goal_GEN_great_science"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_imprison_opponents" data-search-text="GFX_goal_GEN_imprison_opponents" title="GFX_goal_GEN_imprison_opponents" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_imprison_opponents.png" alt="GFX_goal_GEN_imprison_opponents"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_join_faction" data-search-text="GFX_goal_GEN_join_faction" title="GFX_goal_GEN_join_faction" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_join_faction.png" alt="GFX_goal_GEN_join_faction"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_liberals" data-search-text="GFX_goal_GEN_liberals" title="GFX_goal_GEN_liberals" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_liberals.png" alt="GFX_goal_GEN_liberals"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_market_liberalism" data-search-text="GFX_goal_GEN_market_liberalism" title="GFX_goal_GEN_market_liberalism" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_market_liberalism.png" alt="GFX_goal_GEN_market_liberalism"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_military_academy" data-search-text="GFX_goal_GEN_military_academy" title="GFX_goal_GEN_military_academy" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_military_academy.png" alt="GFX_goal_GEN_military_academy"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_military_industry" data-search-text="GFX_goal_GEN_military_industry" title="GFX_goal_GEN_military_industry" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_military_industry.png" alt="GFX_goal_GEN_military_industry"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_military_socialism" data-search-text="GFX_goal_GEN_military_socialism" title="GFX_goal_GEN_military_socialism" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_military_socialism.png" alt="GFX_goal_GEN_military_socialism"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_monarchy" data-search-text="GFX_goal_GEN_monarchy" title="GFX_goal_GEN_monarchy" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_monarchy.png" alt="GFX_goal_GEN_monarchy"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_national_arsenal" data-search-text="GFX_goal_GEN_national_arsenal" title="GFX_goal_GEN_national_arsenal" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_national_arsenal.png" alt="GFX_goal_GEN_national_arsenal"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_national_artillery" data-search-text="GFX_goal_GEN_national_artillery" title="GFX_goal_GEN_national_artillery" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_national_artillery.png" alt="GFX_goal_GEN_national_artillery"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_national_populist" data-search-text="GFX_goal_GEN_national_populist" title="GFX_goal_GEN_national_populist" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_national_populist.png" alt="GFX_goal_GEN_national_populist"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_naval_commanders" data-search-text="GFX_goal_GEN_naval_commanders" title="GFX_goal_GEN_naval_commanders" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_naval_commanders.png" alt="GFX_goal_GEN_naval_commanders"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_new_deal" data-search-text="GFX_goal_GEN_new_deal" title="GFX_goal_GEN_new_deal" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_new_deal.png" alt="GFX_goal_GEN_new_deal"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_officer" data-search-text="GFX_goal_GEN_officer" title="GFX_goal_GEN_officer" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_officer.png" alt="GFX_goal_GEN_officer"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_parliament_in_flames" data-search-text="GFX_goal_GEN_parliament_in_flames" title="GFX_goal_GEN_parliament_in_flames" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_parliament_in_flames.png" alt="GFX_goal_GEN_parliament_in_flames"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_paternal_autocrat" data-search-text="GFX_goal_GEN_paternal_autocrat" title="GFX_goal_GEN_paternal_autocrat" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_paternal_autocrat.png" alt="GFX_goal_GEN_paternal_autocrat"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_peace" data-search-text="GFX_goal_GEN_peace" title="GFX_goal_GEN_peace" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_peace.png" alt="GFX_goal_GEN_peace"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_peace_2" data-search-text="GFX_goal_GEN_peace_2" title="GFX_goal_GEN_peace_2" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_peace_2.png" alt="GFX_goal_GEN_peace_2"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_police" data-search-text="GFX_goal_GEN_police" title="GFX_goal_GEN_police" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_police.png" alt="GFX_goal_GEN_police"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_political" data-search-text="GFX_goal_GEN_political" title="GFX_goal_GEN_political" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_political.png" alt="GFX_goal_GEN_political"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_positive_trade_relations_gold" data-search-text="GFX_goal_GEN_positive_trade_relations_gold" title="GFX_goal_GEN_positive_trade_relations_gold" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_positive_trade_relations_gold.png" alt="GFX_goal_GEN_positive_trade_relations_gold"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_production" data-search-text="GFX_goal_GEN_production" title="GFX_goal_GEN_production" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_production.png" alt="GFX_goal_GEN_production"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_public_housing" data-search-text="GFX_goal_GEN_public_housing" title="GFX_goal_GEN_public_housing" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_public_housing.png" alt="GFX_goal_GEN_public_housing"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_purge_opposition" data-search-text="GFX_goal_GEN_purge_opposition" title="GFX_goal_GEN_purge_opposition" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_purge_opposition.png" alt="GFX_goal_GEN_purge_opposition"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_reform_socialist_army" data-search-text="GFX_goal_GEN_reform_socialist_army" title="GFX_goal_GEN_reform_socialist_army" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_reform_socialist_army.png" alt="GFX_goal_GEN_reform_socialist_army"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_resources" data-search-text="GFX_goal_GEN_resources" title="GFX_goal_GEN_resources" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_resources.png" alt="GFX_goal_GEN_resources"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_revolution_tools" data-search-text="GFX_goal_GEN_revolution_tools" title="GFX_goal_GEN_revolution_tools" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_revolution_tools.png" alt="GFX_goal_GEN_revolution_tools"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_salt" data-search-text="GFX_goal_GEN_salt" title="GFX_goal_GEN_salt" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_salt.png" alt="GFX_goal_GEN_salt"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_secret_police" data-search-text="GFX_goal_GEN_secret_police" title="GFX_goal_GEN_secret_police" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_secret_police.png" alt="GFX_goal_GEN_secret_police"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_skull_treaty" data-search-text="GFX_goal_GEN_skull_treaty" title="GFX_goal_GEN_skull_treaty" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_skull_treaty.png" alt="GFX_goal_GEN_skull_treaty"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_social_democrats" data-search-text="GFX_goal_GEN_social_democrats" title="GFX_goal_GEN_social_democrats" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_social_democrats.png" alt="GFX_goal_GEN_social_democrats"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_social_liberalism" data-search-text="GFX_goal_GEN_social_liberalism" title="GFX_goal_GEN_social_liberalism" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_social_liberalism.png" alt="GFX_goal_GEN_social_liberalism"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_social_reforms" data-search-text="GFX_goal_GEN_social_reforms" title="GFX_goal_GEN_social_reforms" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_social_reforms.png" alt="GFX_goal_GEN_social_reforms"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_soviet_union" data-search-text="GFX_goal_GEN_soviet_union" title="GFX_goal_GEN_soviet_union" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_soviet_union.png" alt="GFX_goal_GEN_soviet_union"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_state_economy" data-search-text="GFX_goal_GEN_state_economy" title="GFX_goal_GEN_state_economy" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_state_economy.png" alt="GFX_goal_GEN_state_economy"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_stop_corruption" data-search-text="GFX_goal_GEN_stop_corruption" title="GFX_goal_GEN_stop_corruption" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_stop_corruption.png" alt="GFX_goal_GEN_stop_corruption"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_support_workers" data-search-text="GFX_goal_GEN_support_workers" title="GFX_goal_GEN_support_workers" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_support_workers.png" alt="GFX_goal_GEN_support_workers"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_take_over_industries" data-search-text="GFX_goal_GEN_take_over_industries" title="GFX_goal_GEN_take_over_industries" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_take_over_industries.png" alt="GFX_goal_GEN_take_over_industries"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_uprising" data-search-text="GFX_goal_GEN_uprising" title="GFX_goal_GEN_uprising" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_uprising.png" alt="GFX_goal_GEN_uprising"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_uprising_2" data-search-text="GFX_goal_GEN_uprising_2" title="GFX_goal_GEN_uprising_2" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_uprising_2.png" alt="GFX_goal_GEN_uprising_2"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_volunteer_alliance" data-search-text="GFX_goal_GEN_volunteer_alliance" title="GFX_goal_GEN_volunteer_alliance" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_volunteer_alliance.png" alt="GFX_goal_GEN_volunteer_alliance"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_wartime_industry" data-search-text="GFX_goal_GEN_wartime_industry" title="GFX_goal_GEN_wartime_industry" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_wartime_industry.png" alt="GFX_goal_GEN_wartime_industry"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_workers_for_business" data-search-text="GFX_goal_GEN_workers_for_business" title="GFX_goal_GEN_workers_for_business" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_workers_for_business.png" alt="GFX_goal_GEN_workers_for_business"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_workers_paradise" data-search-text="GFX_goal_GEN_workers_paradise" title="GFX_goal_GEN_workers_paradise" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_workers_paradise.png" alt="GFX_goal_GEN_workers_paradise"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GEN_workers_rights" data-search-text="GFX_goal_GEN_workers_rights" title="GFX_goal_GEN_workers_rights" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GEN_workers_rights.png" alt="GFX_goal_GEN_workers_rights"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_alsace_lorraine" data-search-text="GFX_goal_GER_alsace_lorraine" title="GFX_goal_GER_alsace_lorraine" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_alsace_lorraine.png" alt="GFX_goal_GER_alsace_lorraine"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_anschluss" data-search-text="GFX_goal_GER_anschluss" title="GFX_goal_GER_anschluss" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_anschluss.png" alt="GFX_goal_GER_anschluss"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_danzig_or_war" data-search-text="GFX_goal_GER_danzig_or_war" title="GFX_goal_GER_danzig_or_war" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_danzig_or_war.png" alt="GFX_goal_GER_danzig_or_war"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_flag_with_strip" data-search-text="GFX_goal_GER_flag_with_strip" title="GFX_goal_GER_flag_with_strip" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_flag_with_strip.png" alt="GFX_goal_GER_flag_with_strip"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_goebbels_power" data-search-text="GFX_goal_GER_goebbels_power" title="GFX_goal_GER_goebbels_power" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_goebbels_power.png" alt="GFX_goal_GER_goebbels_power"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_goering_power" data-search-text="GFX_goal_GER_goering_power" title="GFX_goal_GER_goering_power" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_goering_power.png" alt="GFX_goal_GER_goering_power"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_himmler_ss" data-search-text="GFX_goal_GER_himmler_ss" title="GFX_goal_GER_himmler_ss" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_himmler_ss.png" alt="GFX_goal_GER_himmler_ss"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_himmler_vision" data-search-text="GFX_goal_GER_himmler_vision" title="GFX_goal_GER_himmler_vision" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_himmler_vision.png" alt="GFX_goal_GER_himmler_vision"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_lebensraum" data-search-text="GFX_goal_GER_lebensraum" title="GFX_goal_GER_lebensraum" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_lebensraum.png" alt="GFX_goal_GER_lebensraum"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_luftwaffe_commanders" data-search-text="GFX_goal_GER_luftwaffe_commanders" title="GFX_goal_GER_luftwaffe_commanders" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_luftwaffe_commanders.png" alt="GFX_goal_GER_luftwaffe_commanders"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_new_leader" data-search-text="GFX_goal_GER_new_leader" title="GFX_goal_GER_new_leader" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_new_leader.png" alt="GFX_goal_GER_new_leader"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_our_continent" data-search-text="GFX_goal_GER_our_continent" title="GFX_goal_GER_our_continent" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_our_continent.png" alt="GFX_goal_GER_our_continent"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_reform_luftwaffe" data-search-text="GFX_goal_GER_reform_luftwaffe" title="GFX_goal_GER_reform_luftwaffe" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_reform_luftwaffe.png" alt="GFX_goal_GER_reform_luftwaffe"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_reichstag" data-search-text="GFX_goal_GER_reichstag" title="GFX_goal_GER_reichstag" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_reichstag.png" alt="GFX_goal_GER_reichstag"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_reinhard_ss" data-search-text="GFX_goal_GER_reinhard_ss" title="GFX_goal_GER_reinhard_ss" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_reinhard_ss.png" alt="GFX_goal_GER_reinhard_ss"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_rhineland" data-search-text="GFX_goal_GER_rhineland" title="GFX_goal_GER_rhineland" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_rhineland.png" alt="GFX_goal_GER_rhineland"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_soldier" data-search-text="GFX_goal_GER_soldier" title="GFX_goal_GER_soldier" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_soldier.png" alt="GFX_goal_GER_soldier"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_soldiers" data-search-text="GFX_goal_GER_soldiers" title="GFX_goal_GER_soldiers" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_soldiers.png" alt="GFX_goal_GER_soldiers"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_GER_ss_police" data-search-text="GFX_goal_GER_ss_police" title="GFX_goal_GER_ss_police" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\GER_ss_police.png" alt="GFX_goal_GER_ss_police"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_HUN_greater_hungary" data-search-text="GFX_goal_HUN_greater_hungary" title="GFX_goal_HUN_greater_hungary" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\HUN_greater_hungary.png" alt="GFX_goal_HUN_greater_hungary"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_HUN_horthy" data-search-text="GFX_goal_HUN_horthy" title="GFX_goal_HUN_horthy" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\HUN_horthy.png" alt="GFX_goal_HUN_horthy"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_ITA_army_leaders" data-search-text="GFX_goal_ITA_army_leaders" title="GFX_goal_ITA_army_leaders" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\ITA_army_leaders.png" alt="GFX_goal_ITA_army_leaders"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_ITA_empire" data-search-text="GFX_goal_ITA_empire" title="GFX_goal_ITA_empire" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\ITA_empire.png" alt="GFX_goal_ITA_empire"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_JAP_army_expansion" data-search-text="GFX_goal_JAP_army_expansion" title="GFX_goal_JAP_army_expansion" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\JAP_army_expansion.png" alt="GFX_goal_JAP_army_expansion"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_JAP_bomber" data-search-text="GFX_goal_JAP_bomber" title="GFX_goal_JAP_bomber" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\JAP_bomber.png" alt="GFX_goal_JAP_bomber"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_JAP_co_prosperity_sphere" data-search-text="GFX_goal_JAP_co_prosperity_sphere" title="GFX_goal_JAP_co_prosperity_sphere" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\JAP_co_prosperity_sphere.png" alt="GFX_goal_JAP_co_prosperity_sphere"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_JAP_defense" data-search-text="GFX_goal_JAP_defense" title="GFX_goal_JAP_defense" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\JAP_defense.png" alt="GFX_goal_JAP_defense"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_JAP_diplomacy" data-search-text="GFX_goal_JAP_diplomacy" title="GFX_goal_JAP_diplomacy" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\JAP_diplomacy.png" alt="GFX_goal_JAP_diplomacy"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_JAP_fate_of_the_imperial_family" data-search-text="GFX_goal_JAP_fate_of_the_imperial_family" title="GFX_goal_JAP_fate_of_the_imperial_family" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\JAP_fate_of_the_imperial_family.png" alt="GFX_goal_JAP_fate_of_the_imperial_family"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_JAP_imperialism" data-search-text="GFX_goal_JAP_imperialism" title="GFX_goal_JAP_imperialism" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\JAP_imperialism.png" alt="GFX_goal_JAP_imperialism"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_JAP_kodoha" data-search-text="GFX_goal_JAP_kodoha" title="GFX_goal_JAP_kodoha" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\JAP_kodoha.png" alt="GFX_goal_JAP_kodoha"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_JAP_manchu_army" data-search-text="GFX_goal_JAP_manchu_army" title="GFX_goal_JAP_manchu_army" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\JAP_manchu_army.png" alt="GFX_goal_JAP_manchu_army"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_JAP_manchu_special_focus" data-search-text="GFX_goal_JAP_manchu_special_focus" title="GFX_goal_JAP_manchu_special_focus" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\JAP_manchu_special_focus.png" alt="GFX_goal_JAP_manchu_special_focus"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_JAP_navy" data-search-text="GFX_goal_JAP_navy" title="GFX_goal_JAP_navy" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\JAP_navy.png" alt="GFX_goal_JAP_navy"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_JAP_nav_b" data-search-text="GFX_goal_JAP_nav_b" title="GFX_goal_JAP_nav_b" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\JAP_nav_b.png" alt="GFX_goal_JAP_nav_b"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_JAP_officer" data-search-text="GFX_goal_JAP_officer" title="GFX_goal_JAP_officer" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\JAP_officer.png" alt="GFX_goal_JAP_officer"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_JAP_samurai" data-search-text="GFX_goal_JAP_samurai" title="GFX_goal_JAP_samurai" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\JAP_samurai.png" alt="GFX_goal_JAP_samurai"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_JAP_showa_constitution" data-search-text="GFX_goal_JAP_showa_constitution" title="GFX_goal_JAP_showa_constitution" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\JAP_showa_constitution.png" alt="GFX_goal_JAP_showa_constitution"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_JAP_strenghten_the_civilian_government" data-search-text="GFX_goal_JAP_strenghten_the_civilian_government" title="GFX_goal_JAP_strenghten_the_civilian_government" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\JAP_strenghten_the_civilian_government.png" alt="GFX_goal_JAP_strenghten_the_civilian_government"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_JAP_the_unthinkable_option" data-search-text="GFX_goal_JAP_the_unthinkable_option" title="GFX_goal_JAP_the_unthinkable_option" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\JAP_the_unthinkable_option.png" alt="GFX_goal_JAP_the_unthinkable_option"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_LIB_back_to_africa" data-search-text="GFX_goal_LIB_back_to_africa" title="GFX_goal_LIB_back_to_africa" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\LIB_back_to_africa.png" alt="GFX_goal_LIB_back_to_africa"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_LIB_destiny_coup" data-search-text="GFX_goal_LIB_destiny_coup" title="GFX_goal_LIB_destiny_coup" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\LIB_destiny_coup.png" alt="GFX_goal_LIB_destiny_coup"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_PER_second_constitutional_revolution" data-search-text="GFX_goal_PER_second_constitutional_revolution" title="GFX_goal_PER_second_constitutional_revolution" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\PER_second_constitutional_revolution.png" alt="GFX_goal_PER_second_constitutional_revolution"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_PHI_air" data-search-text="GFX_goal_PHI_air" title="GFX_goal_PHI_air" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\PHI_air.png" alt="GFX_goal_PHI_air"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_PHI_army" data-search-text="GFX_goal_PHI_army" title="GFX_goal_PHI_army" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\PHI_army.png" alt="GFX_goal_PHI_army"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_PHI_flag" data-search-text="GFX_goal_PHI_flag" title="GFX_goal_PHI_flag" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\PHI_flag.png" alt="GFX_goal_PHI_flag"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_PHI_navy" data-search-text="GFX_goal_PHI_navy" title="GFX_goal_PHI_navy" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\PHI_navy.png" alt="GFX_goal_PHI_navy"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_PHI_revolution" data-search-text="GFX_goal_PHI_revolution" title="GFX_goal_PHI_revolution" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\PHI_revolution.png" alt="GFX_goal_PHI_revolution"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_POL_coa" data-search-text="GFX_goal_POL_coa" title="GFX_goal_POL_coa" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\POL_coa.png" alt="GFX_goal_POL_coa"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_POR_burden_empire" data-search-text="GFX_goal_POR_burden_empire" title="GFX_goal_POR_burden_empire" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\POR_burden_empire.png" alt="GFX_goal_POR_burden_empire"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_ROM_foreign_policy_gipsy" data-search-text="GFX_goal_ROM_foreign_policy_gipsy" title="GFX_goal_ROM_foreign_policy_gipsy" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\ROM_foreign_policy_gipsy.png" alt="GFX_goal_ROM_foreign_policy_gipsy"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_ROM_gipsy_revolution" data-search-text="GFX_goal_ROM_gipsy_revolution" title="GFX_goal_ROM_gipsy_revolution" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\ROM_gipsy_revolution.png" alt="GFX_goal_ROM_gipsy_revolution"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_ROM_gypsy_flag" data-search-text="GFX_goal_ROM_gypsy_flag" title="GFX_goal_ROM_gypsy_flag" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\ROM_gypsy_flag.png" alt="GFX_goal_ROM_gypsy_flag"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_ROM_stealing" data-search-text="GFX_goal_ROM_stealing" title="GFX_goal_ROM_stealing" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\ROM_stealing.png" alt="GFX_goal_ROM_stealing"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_SAF_colonialist_crusade" data-search-text="GFX_goal_SAF_colonialist_crusade" title="GFX_goal_SAF_colonialist_crusade" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\SAF_colonialist_crusade.png" alt="GFX_goal_SAF_colonialist_crusade"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_SAF_national_party" data-search-text="GFX_goal_SAF_national_party" title="GFX_goal_SAF_national_party" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\SAF_national_party.png" alt="GFX_goal_SAF_national_party"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_SAF_united_party" data-search-text="GFX_goal_SAF_united_party" title="GFX_goal_SAF_united_party" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\SAF_united_party.png" alt="GFX_goal_SAF_united_party"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_SAF_voortrekker_monument" data-search-text="GFX_goal_SAF_voortrekker_monument" title="GFX_goal_SAF_voortrekker_monument" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\SAF_voortrekker_monument.png" alt="GFX_goal_SAF_voortrekker_monument"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_SOV_imperial_army" data-search-text="GFX_goal_SOV_imperial_army" title="GFX_goal_SOV_imperial_army" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\SOV_imperial_army.png" alt="GFX_goal_SOV_imperial_army"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_SPR_citrus" data-search-text="GFX_goal_SPR_citrus" title="GFX_goal_SPR_citrus" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\SPR_citrus.png" alt="GFX_goal_SPR_citrus"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_SPR_conscription" data-search-text="GFX_goal_SPR_conscription" title="GFX_goal_SPR_conscription" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\SPR_conscription.png" alt="GFX_goal_SPR_conscription"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_SPR_disband_the_army" data-search-text="GFX_goal_SPR_disband_the_army" title="GFX_goal_SPR_disband_the_army" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\SPR_disband_the_army.png" alt="GFX_goal_SPR_disband_the_army"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_SWI_defense" data-search-text="GFX_goal_SWI_defense" title="GFX_goal_SWI_defense" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\SWI_defense.png" alt="GFX_goal_SWI_defense"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_USA_flag" data-search-text="GFX_goal_USA_flag" title="GFX_goal_USA_flag" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\USA_flag.png" alt="GFX_goal_USA_flag"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_USA_macarthur" data-search-text="GFX_goal_USA_macarthur" title="GFX_goal_USA_macarthur" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\USA_macarthur.png" alt="GFX_goal_USA_macarthur"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_VIE_viet_cong" data-search-text="GFX_goal_VIE_viet_cong" title="GFX_goal_VIE_viet_cong" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\VIE_viet_cong.png" alt="GFX_goal_VIE_viet_cong"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_YUG_autonomous_transylvania" data-search-text="GFX_goal_YUG_autonomous_transylvania" title="GFX_goal_YUG_autonomous_transylvania" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\YUG_autonomous_transylvania.png" alt="GFX_goal_YUG_autonomous_transylvania"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_YUG_bosnia" data-search-text="GFX_goal_YUG_bosnia" title="GFX_goal_YUG_bosnia" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\YUG_bosnia.png" alt="GFX_goal_YUG_bosnia"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_YUG_devolved_croatia" data-search-text="GFX_goal_YUG_devolved_croatia" title="GFX_goal_YUG_devolved_croatia" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\YUG_devolved_croatia.png" alt="GFX_goal_YUG_devolved_croatia"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_YUG_dissolve_serbia" data-search-text="GFX_goal_YUG_dissolve_serbia" title="GFX_goal_YUG_dissolve_serbia" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\YUG_dissolve_serbia.png" alt="GFX_goal_YUG_dissolve_serbia"> 
+</div> 
+ 
+<div data-clipboard-text="GFX_goal_YUG_divide_bosnia" data-search-text="GFX_goal_YUG_divide_bosnia" title="GFX_goal_YUG_divide_bosnia" class="icon dlc-base"> 
+    <img loading="lazy" src="gfx\interface\goals\YUG_divide_bosnia.png" alt="GFX_goal_YUG_divide_bosnia"> 
+</div> 
+ 
