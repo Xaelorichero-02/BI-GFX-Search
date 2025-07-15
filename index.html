@@ -10,7 +10,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>HoI4 GFX Search</title>
+  <title>Kaiserreich GFX Search</title>
   <meta name="description" content="">
   <meta name="author" content="">
 
@@ -252,72 +252,9 @@
       transform: translateX(50%)
     }
 
-    /* DLC dropdown styles */
-    .dlc-dropdown {
-      position: relative;
-      display: inline-block;
-      margin-bottom: 15px;
-    }
-
-    .dlc-dropdown-btn {
-      border: 1px solid #ddd;
-      cursor: pointer;
-      background-color: #f6f6f6;
-    }
-
-    .dlc-dropdown-content {
+    .hidden {
       display: none;
-      position: absolute;
-      background-color: #f9f9f9;
-      min-width: 200px;
-      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-      z-index: 1;
-      padding: 10px;
-      max-height: 300px;
-      overflow-y: auto;
     }
-
-    .dlc-dropdown-content label {
-      display: block;
-      padding: 5px 0;
-    }
-
-    .dlc-dropdown-content input {
-      margin-right: 10px;
-    }
-
-    .dlc-dropdown:hover .dlc-dropdown-content {
-      display: block;
-    }
-
-    .select-all-btn {
-      margin-top: 5px;
-      background-color: #e7e7e7;
-      border: none;
-      padding: 5px 10px;
-      text-align: center;
-      text-decoration: none;
-      display: inline-block;
-      cursor: pointer;
-    }
-
-    /* Override icon style */
-    .override-icon {
-      position: relative;
-    }
-
-    .override-icon::after {
-      content: 'DLC';
-      position: absolute;
-      top: 0;
-      right: 0;
-      background-color: #1eaedb;
-      color: white;
-      font-size: 10px;
-      padding: 2px 4px;
-      border-radius: 3px;
-    }
-
   </style>
 
   <link rel="icon" href="hoi4_icon.png">
@@ -343,7 +280,8 @@
           <span class="button toggle-button-span">Ideas</span>
         </label>
         <label class="toggle-button">
-          <input id="characterIdeasSection-toggle" type="checkbox" onclick="toggleIcons('characterIdeasSection')" checked>
+          <input id="characterIdeasSection-toggle" type="checkbox" onclick="toggleIcons('characterIdeasSection')"
+            checked>
           <span class="button toggle-button-span">Character Ideas</span>
         </label>
         <label class="toggle-button">
@@ -376,8 +314,9 @@
         </label>
       </div>
       <div id="goalsSection" class="docs-section">
-        <h6 class="docs-header">National focuses (210)</h6>
-        
+        <h6 class="docs-header">National focuses (2319)</h6>
+        <div class="icon-container flex flex-wrap justify-left mt-3">
+
 <div data-clipboard-text="GFX_goal_AUS_armeeoberkommando" data-search-text="GFX_goal_AUS_armeeoberkommando"
   title="GFX_goal_AUS_armeeoberkommando" class="icon dlc-base">
   <img loading="lazy" src="gfx\interface\goals\AUS_armeeoberkommando.png" alt="GFX_goal_AUS_armeeoberkommando">
@@ -1447,10 +1386,8 @@
 <div data-clipboard-text="GFX_goal_YUG_divide_bosnia" data-search-text="GFX_goal_YUG_divide_bosnia"
   title="GFX_goal_YUG_divide_bosnia" class="icon dlc-base">
   <img loading="lazy" src="gfx\interface\goals\YUG_divide_bosnia.png" alt="GFX_goal_YUG_divide_bosnia">
-</div>
-
-
-        </div>
+      </div>
+      </div>
       </div>
       <div id="ideasSection" class="docs-section">
         <h6 class="docs-header">Ideas (2704)</h6>
